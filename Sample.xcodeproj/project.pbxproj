@@ -16,6 +16,8 @@
 		330C0F4C269432D200989BF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 330C0F4A269432D200989BF5 /* LaunchScreen.storyboard */; };
 		330C0F57269432D200989BF5 /* SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330C0F56269432D200989BF5 /* SampleTests.swift */; };
 		330C0F62269432D200989BF5 /* SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330C0F61269432D200989BF5 /* SampleUITests.swift */; };
+		330C0F762694392F00989BF5 /* nfdkndfkdnf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330C0F752694392F00989BF5 /* nfdkndfkdnf.swift */; };
+		330C0F7B2694397600989BF5 /* jmlkkl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330C0F7A2694397600989BF5 /* jmlkkl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		330C0F5D269432D200989BF5 /* SampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330C0F61269432D200989BF5 /* SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUITests.swift; sourceTree = "<group>"; };
 		330C0F63269432D200989BF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		330C0F752694392F00989BF5 /* nfdkndfkdnf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nfdkndfkdnf.swift; sourceTree = "<group>"; };
+		330C0F7A2694397600989BF5 /* jmlkkl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jmlkkl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				330C0F4A269432D200989BF5 /* LaunchScreen.storyboard */,
 				330C0F4D269432D200989BF5 /* Info.plist */,
 				330C0F45269432CF00989BF5 /* Sample.xcdatamodeld */,
+				330C0F752694392F00989BF5 /* nfdkndfkdnf.swift */,
+				330C0F7A2694397600989BF5 /* jmlkkl.swift */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -263,6 +269,8 @@
 			files = (
 				330C0F41269432CF00989BF5 /* ViewController.swift in Sources */,
 				330C0F47269432CF00989BF5 /* Sample.xcdatamodeld in Sources */,
+				330C0F7B2694397600989BF5 /* jmlkkl.swift in Sources */,
+				330C0F762694392F00989BF5 /* nfdkndfkdnf.swift in Sources */,
 				330C0F3D269432CF00989BF5 /* AppDelegate.swift in Sources */,
 				330C0F3F269432CF00989BF5 /* SceneDelegate.swift in Sources */,
 			);
